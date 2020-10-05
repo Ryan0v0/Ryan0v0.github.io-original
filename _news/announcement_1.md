@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-10-05 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+My own academic site is set up! ✨ Do not go gentle into that good night.

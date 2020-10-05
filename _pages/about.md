@@ -2,11 +2,12 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Here You Are.
 
 profile:
   align: right
   image: prof_pic.jpg
+  description: Do not go gentle into that good night. Rage, rage against the dying of the light. —— Dylan Thomas
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
