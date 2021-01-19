@@ -1,19 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Wanru</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on Wanru</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jan 2021 02:52:49 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | Academic</title>
+    <link>/posts/</link>
+      <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Jan 2021 02:52:49 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>/posts/</link>
+    </image>
+    
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Wed, 13 Jan 2021 02:52:49 +0800</pubDate>
-      
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>Hello world! </description>
+      <guid>/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello world!&lt;/h2&gt;
+</description>
     </item>
     
   </channel>
