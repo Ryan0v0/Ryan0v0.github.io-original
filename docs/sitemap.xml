@@ -73,11 +73,6 @@
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>Ryan0v0.github.io/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
@@ -94,6 +89,11 @@
   
   <url>
     <loc>Ryan0v0.github.io/tags/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
