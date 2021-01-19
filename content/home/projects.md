@@ -31,6 +31,8 @@ content:
     tag: Artificial Intelligence
   - name: Big Data Analysis
     tag: Big Data Analysis
+  - name: Visualization
+    tag: Visualization
   - name: Other
     tag: Demo
 

@@ -64,6 +64,6 @@ highlight_name: true
 
 Greetings! I am Wanru Zhao(赵婉如), a senior undergraduate student at Beihang University(Beijing, China), majoring in Computer Science and Engineering. 	
 
-Currently, I’m focusing on the topic of self-supervised learning and visualization under the guidance of [Prof. Chaoli Wang](http://sites.nd.edu/chaoli-wang/). Before that, I was working on the topic of crowdsourcing and big spatio-temporal data in dynamic pricing advised by [Prof. Yongxin Tong ](http://sites.nlsde.buaa.edu.cn/~yxtong/). Besides, I also did a 6-month internship on compression and quantization of neural networks in Link and Compile Group(LCG)  in SenseTime, Beijing.
+Currently, I’m focusing on the topic of Graph Neural Network interpretability based on visualization for enormous graph data in [DGL Group](https://www.dgl.ai/) of Amazon AI Lab. Before that, I was working on the topic of crowdsourcing and big spatio-temporal data in dynamic pricing advised by [Prof. Yongxin Tong ](http://sites.nlsde.buaa.edu.cn/~yxtong/). Besides, I also did a 6-month internship on compression and quantization of neural networks in Link and Compile Group(LCG)  in SenseTime, Beijing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}} and {{< staticref "media/rp.pdf" "newtab" >}}research proposal{{< /staticref >}}.
