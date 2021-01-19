@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Research Projects
 subtitle: ''
 
 content:
@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Artificial Intelligence
+    tag: Artificial Intelligence
+  - name: Big Data Analysis
+    tag: Big Data Analysis
   - name: Other
     tag: Demo
 

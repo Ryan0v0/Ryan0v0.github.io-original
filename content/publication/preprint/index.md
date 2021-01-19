@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Hand-by-Hand Mentor: An AR based Training System for Piano Performance"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -18,14 +18,13 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Multimedia teaching patterns for musical instrument performance have gained great momentum beneﬁting from the rapid development of augmented and/or virtual reality (AR/VR) technologies in recent years. In this paper, we present an AR-based individual training system for piano performance. Given MIDI data as input, the training system ﬁrst uses a pre-trained Hidden Markov Model (HMM) to decide which ﬁngers to use for speciﬁc notes and note sequences. Next, the 3D animation of hand motion is generated automatically based on the determined ﬁngerings. We employ musical prior knowledge in the animation generation mechanism, which can well contribute to natural-looking gestures and movements. Finally, these virtual hand demonstrations, as well as virtual highlight keys, are rendered in head-mounted displays and registered with a real piano to provide users with real-time visual guidance and feedback. We conduct two user studies to evaluate this training system. Results show that the proposed training system supports better user experience with signiﬁcantly less cognitive load and increases learning efﬁciency and quality compared to traditional teaching patterns.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: Multimedia teaching patterns for musical instrument performance have gained great momentum beneﬁting from the rapid development of augmented and/or virtual reality (AR/VR) technologies in recent years. In this paper, we present an AR-based individual training system for piano performance. Given MIDI data as input, the training system ﬁrst uses a pre-trained Hidden Markov Model (HMM) to decide which ﬁngers to use for speciﬁc notes and note sequences. Next, the 3D animation of hand motion is generated automatically based on the determined ﬁngerings. We employ musical prior knowledge in the animation generation mechanism, which can well contribute to natural-looking gestures and movements. Finally, these virtual hand demonstrations, as well as virtual highlight keys, are rendered in head-mounted displays and registered with a real piano to provide users with real-time visual guidance and feedback. We conduct two user studies to evaluate this training system. Results show that the proposed training system supports better user experience with signiﬁcantly less cognitive load and increases learning efﬁciency and quality compared to traditional teaching patterns.
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: Custom Link

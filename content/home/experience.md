@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Working Experience
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: AI Lab Intern
+    company: Amazon AI Lab
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Shanghai, China
+    date_start: '2021-02-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+#    description: |2-
+#        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+#        * Analysing
+#        * Modelling
+#        * Deploying
         
-  - title: Professor
-    company: University X
+  - title: Research Intern
+    company: SenseTime Research
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Beijing, China
+    date_start: '2020-02-26'
+    date_end: '2020-09-30'
+#    description: Taught electronic engineering and researched semiconductor physics.
 ---

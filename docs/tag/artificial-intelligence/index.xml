@@ -13,6 +13,26 @@
     </image>
     
     <item>
+      <title>Construction of Prostate Gene Network based on Mutual Information</title>
+      <link>Ryan0v0.github.io/project/mcm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>Ryan0v0.github.io/project/mcm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative Adversarial Networks (GAN)-Based Automatic Generation System of Large-scale Handwriting Chinese Fonts</title>
+      <link>Ryan0v0.github.io/project/mlcamp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>Ryan0v0.github.io/project/mlcamp/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Transfer standard fonts into new fonts with other style features using CycleGAN and Pix2Pix structure.&lt;/li&gt;
+&lt;li&gt;Interactive website with font-uploading, collection, comment and tagging implemented by Python Flask + SQLite + HTML&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Individual Tutoring System for Piano Training based on AR&#43;AI</title>
       <link>Ryan0v0.github.io/project/ar-piano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -25,6 +45,14 @@ Generated 3D animation of hand motion automatically based on the determined fing
 &lt;li&gt;Conducted user study and promoted product practical application as a startup company product.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Traffic Task Assignment and Pricing in Spatial-Temporal Crowdsourcing</title>
+      <link>Ryan0v0.github.io/project/didi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>Ryan0v0.github.io/project/didi/</guid>
+      <description></description>
     </item>
     
   </channel>

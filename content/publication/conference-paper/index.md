@@ -1,13 +1,14 @@
 ---
-title: "An example conference paper"
+title: "Graph Attention based Proposal 3D ConvNets for Action Detection"
 authors:
+- Jun Li
+- Xianglong Liu
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2020-04-01T00:00:00Z"
+doi: "10.1609/aaai.v34i04.5893"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-04-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +17,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *Proceedings of the AAAI Conference on Artificial Intelligence*
+publication_short: In *AAAI 2020*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The recent advances in 3D Convolutional Neural Networks (3D CNNs) have shown promising performance for untrimmed video action detection, employing the popular detection framework that heavily relies on the temporal action proposal generations as the input of the action detector and localization regressor. In practice the proposals usually contain strong intra and inter relations among them, mainly stemming from the temporal and spatial variations in the video actions. However, most of existing 3D CNNs ignore the relations and thus suffer from the redundant proposals degenerating the detection performance and efficiency. To address this problem, we propose graph attention based proposal 3D ConvNets (AGCN-P-3DCNNs) for video action detection. Specifically, our proposed graph attention is composed of intra attention based GCN and inter attention based GCN. We use intra attention to learn the intra long-range dependencies inside each action proposal and update node matrix of Intra Attention based GCN, and use inter attention to learn the inter dependencies between different action proposals as adjacency matrix of Inter Attention based GCN. Afterwards, we fuse intra and inter attention to model intra long-range dependencies and inter dependencies simultaneously. Another contribution is that we propose a simple and effective framewise classifier, which enhances the feature presentation capabilities of backbone model. Experiments on two proposal 3D ConvNets based models (P-C3D and P-ResNet) and two popular action detection benchmarks (THUMOS 2014, ActivityNet v1.3) demonstrate the state-of-the-art performance achieved by our method. Particularly, P-C3D embedded with our module achieves average mAP 3.7% improvement on THUMOS 2014 dataset compared to original model.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -29,9 +30,9 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+#- name: Custom Link
+#  url: http://example.org
+url_pdf: https://aaai.org/ojs/index.php/AAAI/article/view/5893/5749
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
