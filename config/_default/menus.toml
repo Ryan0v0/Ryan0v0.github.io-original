@@ -44,3 +44,7 @@
     name = "CV"
     url = "media/resume.pdf"
     weight = 70
+[[main]]
+  name = "As a Girl"
+  url = "media/PS.pdf"
+  weight = 70
