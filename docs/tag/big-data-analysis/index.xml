@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data Analysis | Wanru Zhao 赵婉如</title>
+    <link>Ryan0v0.github.io/tag/big-data-analysis/</link>
+      <atom:link href="Ryan0v0.github.io/tag/big-data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Big Data Analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/Ryan0v0.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Big Data Analysis</title>
+      <link>Ryan0v0.github.io/tag/big-data-analysis/</link>
+    </image>
+    
+    <item>
+      <title>SmartCity Visualization System for 3D Traffic Dangerous Pattern Prediction</title>
+      <link>Ryan0v0.github.io/project/smartcity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>Ryan0v0.github.io/project/smartcity/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Took risky patterns as the keystones in danger management, and built causality networks among them for pain points identification, attribution and prediction.&lt;/li&gt;
+&lt;li&gt;Used Spark and Hadoop to analyze the large-scale daily data in Beijing.&lt;/li&gt;
+&lt;li&gt;Built a 3D Geographic Information System(GIS) Visualization Platform using WebGL, D3.js and Leaflet.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

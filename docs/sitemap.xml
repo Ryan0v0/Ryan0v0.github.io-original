@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>Ryan0v0.github.io/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>Ryan0v0.github.io/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
@@ -33,33 +18,8 @@
   </url>
   
   <url>
-    <loc>Ryan0v0.github.io/posts/my-first-post/</loc>
-    <lastmod>2021-01-13T02:52:49+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/posts/</loc>
-    <lastmod>2021-01-13T02:52:49+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -89,17 +49,12 @@
   
   <url>
     <loc>Ryan0v0.github.io/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -110,71 +65,6 @@
   <url>
     <loc>Ryan0v0.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Ryan0v0.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -205,6 +95,42 @@
   <url>
     <loc>Ryan0v0.github.io/publication/example/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>Ryan0v0.github.io/tag/artificial-intelligence/</loc>
+  </url>
+  
+  <url>
+    <loc>Ryan0v0.github.io/tag/big-data-analysis/</loc>
+  </url>
+  
+  <url>
+    <loc>Ryan0v0.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>Ryan0v0.github.io/project/ar-piano/</loc>
+  </url>
+  
+  <url>
+    <loc>Ryan0v0.github.io/project/</loc>
+  </url>
+  
+  <url>
+    <loc>Ryan0v0.github.io/project/smartcity/</loc>
+  </url>
+  
+  <url>
+    <loc>Ryan0v0.github.io/tag/virtual-reality/augmented-reality/</loc>
+  </url>
+  
+  <url>
+    <loc>Ryan0v0.github.io/tag/visualization/</loc>
+  </url>
+  
+  <url>
+    <loc></loc>
   </url>
   
 </urlset>
