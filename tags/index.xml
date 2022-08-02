@@ -1,0 +1,61 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Ziyi Liu</title>
+        <link>https://ziiiliu.github.io/tags/</link>
+        <description>Tags - Tag - Ziyi Liu</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 05 Feb 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://ziiiliu.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>cs</title>
+    <link>https://ziiiliu.github.io/tags/cs/</link>
+    <pubDate>Sat, 05 Feb 2022 00:00:00 &#43;0000</pubDate><guid>https://ziiiliu.github.io/tags/cs/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>ML</title>
+    <link>https://ziiiliu.github.io/tags/ml/</link>
+    <pubDate>Sat, 05 Feb 2022 00:00:00 &#43;0000</pubDate><guid>https://ziiiliu.github.io/tags/ml/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>RL</title>
+    <link>https://ziiiliu.github.io/tags/rl/</link>
+    <pubDate>Sat, 05 Feb 2022 00:00:00 &#43;0000</pubDate><guid>https://ziiiliu.github.io/tags/rl/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>DL</title>
+    <link>https://ziiiliu.github.io/tags/dl/</link>
+    <pubDate>Fri, 04 Feb 2022 23:36:23 &#43;0000</pubDate><guid>https://ziiiliu.github.io/tags/dl/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>project</title>
+    <link>https://ziiiliu.github.io/tags/project/</link>
+    <pubDate>Fri, 04 Feb 2022 23:36:23 &#43;0000</pubDate><guid>https://ziiiliu.github.io/tags/project/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>flask</title>
+    <link>https://ziiiliu.github.io/tags/flask/</link>
+    <pubDate>Thu, 05 Nov 2020 20:46:05 &#43;0000</pubDate><guid>https://ziiiliu.github.io/tags/flask/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>html</title>
+    <link>https://ziiiliu.github.io/tags/html/</link>
+    <pubDate>Thu, 05 Nov 2020 20:46:05 &#43;0000</pubDate><guid>https://ziiiliu.github.io/tags/html/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>web</title>
+    <link>https://ziiiliu.github.io/tags/web/</link>
+    <pubDate>Thu, 05 Nov 2020 20:46:05 &#43;0000</pubDate><guid>https://ziiiliu.github.io/tags/web/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>md</title>
+    <link>https://ziiiliu.github.io/tags/md/</link>
+    <pubDate>Tue, 17 Sep 2019 14:50:36 &#43;0800</pubDate><guid>https://ziiiliu.github.io/tags/md/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

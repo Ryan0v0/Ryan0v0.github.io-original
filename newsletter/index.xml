@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All newsletter - Ziyi Liu</title>
+        <link>https://ziiiliu.github.io/newsletter/</link>
+        <description>All newsletter | Ziyi Liu</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 25 Jul 2022 10:04:49 &#43;0000</lastBuildDate><atom:link href="https://ziiiliu.github.io/newsletter/" rel="self" type="application/rss+xml" /><item>
+    <title>Newsletter Issue 1</title>
+    <link>https://ziiiliu.github.io/newsletter/issue1/</link>
+    <pubDate>Mon, 25 Jul 2022 10:04:49 &#43;0000</pubDate><guid>https://ziiiliu.github.io/newsletter/issue1/</guid>
+    <description><![CDATA[Intro Hi, I&rsquo;m Ziyi, and you are reading my very first newsletter. I&rsquo;ll be frank in the very beginning: I am not writing to cater to anyone&rsquo;s taste, and my biggest patron and vip subscriber is myself, which is exactly why I started this project.
+Journaling has been a big hurdle in my entire life, despite my multiple attempts at it in different stages of life for vastly different reasons. In childhood, keeping a diary was a recurring homework for school, and as I was a rather absentminded and playful kid, not many events or thoughts really remain in my brain when I had to reluctantly pick up my pencil and rush a piece on Sunday night - so I made up some random stories.]]></description>
+</item>
+</channel>
+</rss>
